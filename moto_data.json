@@ -1,0 +1,13 @@
+{
+    "motorcycle": "Honda CG 110",
+    "current_mileage": 58298,
+    "last_updated_date": "2025-09-17",
+    "maintenance_history": [],
+    "service_intervals": {
+        "Cambio de aceite": 1000,
+        "Filtro de aire": 3000,
+        "Ajuste de cadena": 3000,
+        "Cambio de bujía": 6000,
+        "Revisión general": 12000
+    }
+}
